@@ -1,2 +1,3 @@
 # PY4E
-Repository for Python for Everybody exercises
+
+This repository is intended for the exercises in PY4E.
